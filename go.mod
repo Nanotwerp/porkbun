@@ -6,7 +6,7 @@ toolchain go1.22.3
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.1
-	github.com/libdns/porkbun v0.1.2
+	github.com/libdns/porkbun v0.1.3-0.20240530090436-6dda640b5aef
 )
 
 require (
