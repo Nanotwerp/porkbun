@@ -1,4 +1,4 @@
-module github.com/caddy-dns/porkbun
+module github.com/Nanotwerp/porkbun
 
 go 1.21.0
 
